@@ -1,5 +1,7 @@
-[
-  {
+{
+ "product": [
+ 
+   {
     "id": "1",
     "product_name": "Dosa",
     "product_option": "cash",
@@ -79,4 +81,5 @@
     "tax_group": "percentage",
     "price": "50"
   }
-]
+ ]
+}
