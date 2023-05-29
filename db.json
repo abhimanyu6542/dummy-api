@@ -1,14 +1,82 @@
 [
   {
-    "id": 1,
-    "title": "Post 1"
+    "id": "1",
+    "product_name": "Dosa",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
   },
   {
-    "id": 2,
-    "title": "Post 2"
+    "id": "2",
+    "product_name": "Dosa",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
   },
   {
-    "id": 3,
-    "title": "Post 3"
+    "id": "3",
+    "product_name": "Idli",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "4",
+    "product_name": "idli",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "5",
+    "product_name": "Vada",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "6",
+    "product_name": "Vada",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "7",
+    "product_name": "Biriyani",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "8",
+    "product_name": "Mutton Biriyani",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "9",
+    "product_name": "Chicken Pakoda",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
+  },
+  {
+    "id": "10",
+    "product_name": "Mutton biriyani",
+    "product_option": "cash",
+    "product_category": "fast food",
+    "tax_group": "percentage",
+    "price": "50"
   }
 ]
