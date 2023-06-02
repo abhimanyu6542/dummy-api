@@ -82,4 +82,77 @@
     "price": "500"
   }
  ]
+ "customers": [
+ 
+   {
+    "id": "1",
+    "name": "abhimanyu",
+    "email": "abhi@gmail.com",
+    "phone": 1234567890,
+    "city": "Hyderabad",
+  },
+  {
+    "id": "2",
+   "name": "ayush",
+    "email": "ayush@gmail.com",
+    "phone": 1234567890,
+    "city": "Mumbai",
+  },
+  {
+    "id": "3",
+     "name": "john doe",
+    "email": "jdoe@gmail.com",
+    "phone": 1234567890,
+    "city": "Patna",
+  },
+  {
+    "id": "4",
+      "name": "Sagar",
+    "email": "sagar@gmail.com",
+    "phone": 1234567890,
+    "city": "Delhi",
+  },
+  {
+    "id": "5",
+    "name": "Shiva",
+    "email": "siva124@gmail.com",
+    "phone": 1234567890,
+    "city": "Chennai",
+  },
+  {
+    "id": "6",
+    "name": "Akshya",
+    "email": "akhgd@gmail.com",
+    "phone": 1234567890,
+    "city": "Pune",
+  },
+  {
+    "id": "7",
+    "name": "Saswat",
+    "email": "saswatfdaffa@gmail.com",
+    "phone": 1234567890,
+    "city": "Bengalore",
+  },
+  {
+    "id": "8",
+    "name": "S Babu",
+    "email": "sbabu@gmail.com",
+    "phone": 1234567890,
+    "city": "Chennai",
+  },
+  {
+    "id": "9",
+    "name": "P Verma",
+    "email": "pverma@gmail.com",
+    "phone": 1234567890,
+    "city": "Bhubaneswar",
+  },
+  {
+    "id": "10",
+     "name": "Ashok",
+    "email": "ashok000@gmail.com",
+    "phone": 1234567890,
+    "city": "Khordha",
+  }
+ ]
 }
